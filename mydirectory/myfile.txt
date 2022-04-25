@@ -1,2 +1,4 @@
 This is a file in my directory
-I am adding another line and deleting a second
+letstry
+another thing
+why is this happening
